@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/melloware/fort-delco/main/images/fort-delco.webp" width="150" height="150" />
 </div>
 
-# Fort Delco Check In/Out
+# Fort Delco iPhone Check In/Out
 Instructions for texting the gym owner "In" upon arriving at the gym and texting "Out" when leaving the gym for Apple iPhone owners.
 
 The following steps will automate the whole process so you never have to remember!
