@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/melloware/fort-delco/blob/main/images/fort-delco.webp" width="150" height="150" />
+<img src="https://raw.githubusercontent.com/melloware/fort-delco/main/images/fort-delco.webp" width="150" height="150" />
 </div>
 
 # Fort Delco Check In/Out
